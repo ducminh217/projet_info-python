@@ -23,7 +23,6 @@ def DSP(data, sample_rate):
     return freq[:N//2], 2*dsp[:N//2]
 
 
-#rate,data=read('C:\Users\DucMinh\Google Drive\LuMi_Document\Signal et Bruit info\data\\2016-03-02-22_07_11.wav')
 fs=44100
 buff=0.1
 
